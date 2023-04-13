@@ -34,17 +34,17 @@ Bogusław,None
 Bolesław,Boleslaus
 Bonifacy,Boniface
 Borys,Boris
-Borysław,nan
+Borysław,
 Bożidar,None
 Bożimir,None
 Bronisław,Bronislaus
 Brunon,Bruno
-Budzisław,nan
+Budzisław,
 Celestyn,Celestine
 Cezary,"Cesar,Caesar"
 Chrystian,Christian
-Chwalibóg,nan
-Chwalimir,nan
+Chwalibóg,
+Chwalimir,
 Cyprian,Cyprian
 Cyryl,Cyril
 Czesław,Ceslaus
@@ -86,10 +86,10 @@ Gaweł,"Gallus, Gall"
 Gerard,"Gerard, Garrett"
 Gerwazy,Gervase
 Ginter,Gunther
-Godzisław,nan
-Gościsław,nan
+Godzisław,
+Gościsław,
 Grzegorz,Gregory
-Grodzisław,nan
+Grodzisław,
 Gustaw,"Gustave, Gustav"
 Gwalbert,"Gualbert, Walbert"
 Halina,Helen
@@ -121,7 +121,7 @@ Jaromir,Jaromir
 Jaropełk,Yaropolk
 Jarosław,Jaroslav
 Jerzy,George
-Jędrzej,nan
+Jędrzej,
 Joachim,Joachim
 Jozafat,Josephat
 Józef,Joseph
@@ -133,7 +133,7 @@ Justyn,Justin
 Kacper,"Jasper, Casper"
 Kajetan,"Cajetan, Cajetanus"
 Kamil,Camillus
-Kanimir,nan
+Kanimir,
 Karol,"Charles, Carl"
 Kasper,"Jasper, Casper"
 Kazimierz,Casimir
@@ -150,7 +150,7 @@ Kosma,"Cosmo, Cosmas"
 Kryspyn,Crispin
 Krystian,Christian
 Krystyn,Christinus
-Krzesisław,nan
+Krzesisław,
 Krzysztof,Christopher
 Ksawery,Xavier
 Kwiatosław,None
@@ -196,31 +196,31 @@ Medard,Medard
 Melchior,Melchior
 Metody,Methodius
 Michał,Michael
-Mieszko,nan
+Mieszko,
 Mieczysław,Mitchell
 Mikołaj,Nicholas
-Miłosz,nan
-Milan,nan
-Mirosław,nan
+Miłosz,
+Milan,
+Mirosław,
 Napoleon,Napoleon
 Narcyz,Narcissus
 Natan,Nathan
 Natanael,Nathanael
 Nataniel,Nathaniel
 Nicefor,Nicephorus
-Niecisław,nan
+Niecisław,
 Nikodem,Nicodemus
 Norbert,Norbert
 Oktawiusz,Octavius
 Olaf,"Olaf, Olav"
 Oleg,Oleg
-Olgierd,nan
+Olgierd,
 Onufry,"Onuphrius, Humphrey"
 Oskar,Oscar
 Oswald,"Oswald, Osvald"
 Pabian,Fabian
 Pafnucy,Paphnutius
-Pakosław,nan
+Pakosław,
 Pankracy,Pancras
 Patryk,Patrick
 Paweł,Paul
@@ -229,11 +229,11 @@ Petroniusz,Petronius
 Piotr,Peter
 Polikarp,Polycarp
 Prot,Protus ?
-Przemysł,nan
-Przemysław,nan
-Radomił,nan
-Radomir,nan
-Radosław,nan
+Przemysł,
+Przemysław,
+Radomił,
+Radomir,
+Radosław,
 Rafał,Raphael
 Rajmund,Raymond
 Remigiusz,"Remy, Remi"
@@ -250,13 +250,13 @@ Sergiusz,Serge
 Serwacy,"Servatius, Servais"
 Seweryn,Severin
 Siemowit,None
-Sławomierz,nan
+Sławomierz,
 Sławomir,None
 Sofroniusz,Sophron
 Stanisław,"Stanislaus, Stanley"
 Stefan,"Stephen, Steven"
-Stojan,nan
-Świętosław,nan
+Stojan,
+Świętosław,
 Sylwester,"Sylvester, Silvester"
 Szczepan,"Stephen, Steven"
 Szymon,"Simon, Simeon"
@@ -266,7 +266,7 @@ Teodor,Theodore
 Teofil,Theophilus
 Tobiasz,"Toby, Tobias"
 Tomasz,Thomas
-Tomisław,nan
+Tomisław,
 Tymon,Timon
 Tymoteusz,Timothy
 Tytus,Titus
@@ -286,7 +286,7 @@ Wiesław,None
 Wiktor,Victor
 Wilhelm,William
 Wincenty,Vincent
-Witold,nan
+Witold,
 Wisław,None
 Wit,"Vitus, Guy"
 Witalis,Vitalis
@@ -329,21 +329,21 @@ Aniela,Angela
 Anita,Anita
 Anna,"Ann, Anne, Anna"
 Antonina,Antoinette
-Apolonia,nan
+Apolonia,
 Arleta,Arletta
 Aurelia,Aurelia
 Balbina,Balbina
 Barbara,Barbara
 Beata,Beata
 Berenika,Berenice
-Bogna,nan
-Bogumiła,nan
-Bogusława,nan
-Bożena,nan
+Bogna,
+Bogumiła,
+Bogusława,
+Bożena,
 Brygida,Bridget
 Cecylia,"Cicely, Cilly"
 Celina,Celine
-Czesława,nan
+Czesława,
 Dagmara,Dagmar
 Daniela,Daniela
 Danuta,"Dana, Donata"
@@ -387,14 +387,14 @@ Judyta,"Judith, Judy"
 Julia,"Julia, Julie"
 Justyna,Justine
 Kaja,"Kay, Kaya"
-Kalina,nan
+Kalina,
 Kamila,Camilla
 Karina,Karen
 Karolina,Caroline
 Katarzyna,"Catherine, Katharine"
 Kasandra,Cassandra
 Kazimiera,Casimira
-Kinga,nan
+Kinga,
 Klara,"Clare, Claire"
 Klaudia,Claudia
 Klementyna,Clementine
@@ -414,7 +414,7 @@ Luiza,Louise
 Łucja,"Lucy, Lucia"
 Magdalena,Magdalen
 Maja,May
-Malina,nan
+Malina,
 Malwina,Melvine
 Małgorzata,Margaret/Maggie
 Maria,"Mary, Maria"
@@ -429,7 +429,7 @@ Maryna,Marina
 Marzena,Marion
 Melania,Melanie
 Michalina,Michelle
-Mirosława,nan
+Mirosława,
 Monika,Monica
 Nadia,"Nadia, Nadya"
 Nadzieja,"Nadezda, Nadya, Hope"
@@ -461,7 +461,7 @@ Stanisława,Stacy
 Stefania,Stephanie
 Sylwia,"Sylvia, Silvia"
 Szarlota,Charlotte
-Świętosława,nan
+Świętosława,
 Tamara,"Tamara, Tammy"
 Tatiana,"Tatiana, Tanya"
 Teodora,Theodora
@@ -480,8 +480,8 @@ Wiktoria,Victoria
 Wilhelmina,"Wilma, Wilhelmina"
 Wioleta,Violet
 Wirginia,Virginia
-Wisława,nan
-Zdzisława,nan
+Wisława,
+Zdzisława,
 Zenobia,Zenobia
 Zofia,Sophie
 Zuzanna,Susan
